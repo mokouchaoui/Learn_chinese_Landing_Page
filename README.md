@@ -1,2 +1,2 @@
-# Lean_chinese_Landing_Page
+# Responsive Learn Chinese Website
 HTML CSS Landing page Responsive web 
