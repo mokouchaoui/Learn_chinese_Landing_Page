@@ -8,4 +8,4 @@ HTML CSS Landing page Responsive web
 - Developed first with the Mobile responsive.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-## [Watch it llive](https://mokouchaoui.github.io/Lean_chinese_Landing_Page/)
+## [Watch it live](https://mokouchaoui.github.io/Lean_chinese_Landing_Page/)
