@@ -9,3 +9,7 @@ HTML CSS Landing page Responsive web
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 ## [Watch it live](https://mokouchaoui.github.io/Lean_chinese_Landing_Page/)
+
+
+#### ScreenCapture
+ ![screencapture](https://raw.githubusercontent.com/mokouchaoui/Lean_chinese_Landing_Page/main/img/bgk_m.png)
