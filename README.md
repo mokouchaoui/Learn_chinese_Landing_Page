@@ -12,4 +12,4 @@ HTML CSS Landing page Responsive web
 
 
 #### ScreenCapture
- ![screencapture](https://raw.githubusercontent.com/mokouchaoui/Lean_chinese_Landing_Page/main/img/bg_m.png)
+ ![screencapture](https://raw.githubusercontent.com/mokouchaoui/Lean_chinese_Landing_Page/main/img/bgk_m.png)
