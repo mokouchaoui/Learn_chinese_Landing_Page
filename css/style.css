@@ -1,0 +1,147 @@
+body {
+    margin: 0%;
+    font-family: sans-serif;
+} 
+
+.header {
+    background-image: url("../img/bg.jpg");
+    height: 80vh;
+    background-position: top right;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    padding-top: 40px;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.header .logo {
+    float: left;
+    width: 150px;
+}
+
+.header ul {
+    margin-top: 0;
+    padding-top: 0;
+    float: right;
+}
+
+.header ul li {
+    display: inline-block;
+    padding: 30px;
+    font-weight: bolder;
+    padding: 10px 20px;
+    margin: 0px 10px;
+}
+
+.header ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.header ul .btn {
+    border: 2px solid black;
+    border-radius: 10px;
+   
+
+}
+
+.clear {
+    clear: both;
+}
+
+.header .content {
+    width: 35%;
+}
+
+.header h1 {
+    margin-bottom: 5px;
+}
+
+.header .content h1 {
+    font-size: 100px;
+}
+
+.header .content p {
+
+    line-height: 1.6;
+    font-weight: bolder;
+}
+
+.header .content .btn {
+    color: white;
+    text-decoration: none;
+    background-color: #A85FF9;
+    padding: 15px 30px;
+    margin-top: 10px;
+    display: inline-block;
+    border-radius: 6px;
+}
+
+.services {
+    position: relative;
+}
+
+.services .item {
+    margin-top: 90px;
+    float: left;
+    width: 33%;
+}
+
+.services .item img {
+    width: 70px;
+}
+
+.services .item p {
+    padding-right: 30%;
+    line-height: 2;
+}
+
+@media(max-width: 775px)
+{
+    .header {
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .header .logo {
+        width: 50px;
+    }
+    .header ul {
+        margin-top: 10px;
+        padding-left: 4px;
+        width: 100%;
+        text-align: left;
+    }
+    .header .btn {
+        padding: 5px;
+    }
+    .header .content {
+        text-align: center;
+
+    }
+    .header ul li {
+        padding: 2px;
+        font-size: 14px;
+        margin: 0 1px;
+    }
+
+    .header .content h1 {
+        font-size: 40px;
+    }
+    
+    .header .content {
+        width: 100%;
+    }
+
+    .services .item {
+        float: none;
+        text-align: center;
+        width: 100%;
+    }
+    .services .item p {
+        padding: 0;
+        text-align: center;
+    }
+}
